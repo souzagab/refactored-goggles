@@ -13,9 +13,8 @@
 #
 # Configure Using Gemfile
 # gem 'pg'
-#
 default: &default
-  adapter: postgresql
+  adapter: sqlite3
   encoding: unicode
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
@@ -23,7 +22,7 @@ default: &default
 
 development:
   <<: *default
-  database: products_api_development
+  database: db/products_api_development.sqlite3
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -80,7 +79,8 @@ test:
 # for a full overview on how database connection configuration can be specified.
 #
 production:
-  <<: *default
+  adapter: postgresql
+  encoding: unicode
   database: products_api_production
   username: products_api
   password: <%= ENV['PRODUCTS_API_DATABASE_PASSWORD'] %>
