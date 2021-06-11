@@ -13,9 +13,20 @@
 ActiveRecord::Schema.define(version: 2021_06_10_233619) do
 
   create_table "products", force: :cascade do |t|
-    t.string "name"
-    t.text "description"
-    t.float "price"
+    t.string "pro_codigo"
+    t.string "desconto"
+    t.string "descricao_tecnica"
+    t.string "tipo_embalagem"
+    t.string "pro_nome"
+    t.float "preco"
+    t.string "departamento"
+    t.string "secao"
+    t.string "categoria"
+    t.string "preco_desconto", default: "0"
+    t.string "ncm"
+    t.string "ean"
+    t.float "custo"
+    t.float "estoque"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

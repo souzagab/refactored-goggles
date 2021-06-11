@@ -7,15 +7,8 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Product.create([
-  {
-    name: 'Produto 1',
-    description: 'Produto 1',
-    price: 10.0
-  },
-  {
-    name: 'Produto 2',
-    description: 'Produto 2',
-    price: 10.0
-  },
-])
+records = JSON.parse(File.read(Rails.root.join 'db/products.json'))
+
+records.each do |record|
+  Product.create(record)
+end
