@@ -10,7 +10,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_06_10_233619) do
+ActiveRecord::Schema.define(version: 2021_06_11_225535) do
+
+  create_table "product_requests", force: :cascade do |t|
+    t.integer "product_id", null: false
+    t.integer "sale_id", null: false
+    t.string "numero_pedido"
+    t.integer "codigo_produto"
+    t.integer "qtde"
+    t.integer "unitario"
+    t.float "valor_total"
+    t.datetime "data"
+    t.float "custo"
+    t.float "desconto"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["product_id"], name: "index_product_requests_on_product_id"
+    t.index ["sale_id"], name: "index_product_requests_on_sale_id"
+  end
 
   create_table "products", force: :cascade do |t|
     t.string "pro_codigo"
@@ -31,4 +48,27 @@ ActiveRecord::Schema.define(version: 2021_06_10_233619) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "sales", force: :cascade do |t|
+    t.string "cliente"
+    t.datetime "data"
+    t.string "telefone"
+    t.string "telefone2"
+    t.float "pagamento"
+    t.float "valor_total_pedido"
+    t.string "email"
+    t.text "observacao"
+    t.string "cep"
+    t.string "rua"
+    t.string "bairro"
+    t.string "numero"
+    t.string "complemento"
+    t.date "data_entrega"
+    t.string "horario_entrega"
+    t.string "status"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  add_foreign_key "product_requests", "products"
+  add_foreign_key "product_requests", "sales"
 end
