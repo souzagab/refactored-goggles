@@ -6,7 +6,7 @@ class ApplicationController < ActionController::API
   private
 
   def authorize
-    return if request.headers["Authorization"].include? ENV.fetch "API_SECRET" # super secure
+    return if request.headers['Authorization'].include? ENV.fetch 'API_SECRET' # super secure
 
     head :unauthorized
   end

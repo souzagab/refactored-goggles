@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreateProducts < ActiveRecord::Migration[6.1]
   def change
     create_table :products do |t|
@@ -10,7 +12,7 @@ class CreateProducts < ActiveRecord::Migration[6.1]
       t.string :departamento
       t.string :secao
       t.string :categoria
-      t.string :preco_desconto,  default: 0
+      t.string :preco_desconto, default: 0
       t.string :ncm
       t.string :ean
       t.float :custo
