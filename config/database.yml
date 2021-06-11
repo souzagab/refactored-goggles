@@ -81,6 +81,4 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: products_api_production
-  username: products_api
-  password: <%= ENV['PRODUCTS_API_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
