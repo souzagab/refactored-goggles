@@ -51,6 +51,6 @@ class SalesController < ApplicationController
   def sale_params
     params.permit(:cliente, :data, :telefone, :telefone2, :pagamento, :valor_total_pedido, :email,
                   :observacao, :cep, :rua, :bairro, :numero, :complemento, :data_entrega, :horario_entrega, :status,
-                  products_ids: [])
+                  product_ids: [])
   end
 end
