@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_06_11_225535) do
+ActiveRecord::Schema.define(version: 2021_09_13_235348) do
 
   create_table "product_requests", force: :cascade do |t|
     t.integer "product_id", null: false
@@ -50,10 +50,10 @@ ActiveRecord::Schema.define(version: 2021_06_11_225535) do
 
   create_table "sales", force: :cascade do |t|
     t.string "cliente"
-    t.datetime "data"
+    t.string "data"
     t.string "telefone"
     t.string "telefone2"
-    t.float "pagamento"
+    t.string "pagamento"
     t.float "valor_total_pedido"
     t.string "email"
     t.text "observacao"
@@ -62,7 +62,7 @@ ActiveRecord::Schema.define(version: 2021_06_11_225535) do
     t.string "bairro"
     t.string "numero"
     t.string "complemento"
-    t.date "data_entrega"
+    t.string "data_entrega"
     t.string "horario_entrega"
     t.string "status"
     t.datetime "created_at", precision: 6, null: false
