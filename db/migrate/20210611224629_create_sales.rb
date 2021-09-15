@@ -7,9 +7,9 @@ class CreateSales < ActiveRecord::Migration[6.1]
       t.string :cpf
       t.string :telefone
       t.string :telefone2
-      t.change :data, :string
-      t.change :pagamento, :string
-      t.change :data_entrega, :string
+      t.string :data
+      t.string :pagamento
+      t.string :data_entrega
       t.float :valor_total_pedido
       t.string :email
       t.text :observacao
