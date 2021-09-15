@@ -12,7 +12,7 @@
     "ncm": 19041000,
     "ean": "0000000000590",
     "custo": "15,8",
-    "preco_desconto": "15,29",
+    "preco_desconto": "35,29",
     "estoque": "-31,3535"
   },
 
@@ -29,7 +29,7 @@
     "ncm": 8062000,
     "ean": "0000000000592",
     "custo": "23,5",
-    "preco_desconto": "22,99",
+    "preco_desconto": "17,99",
     "estoque": "-5,1687"
   },
 
@@ -46,7 +46,7 @@
     "ncm": 8013200,
     "ean": "0000000000632",
     "custo": 40,
-    "preco_desconto": "39,49",
+    "preco_desconto": "40,49",
     "estoque": "-32,352"
   },
 
@@ -63,7 +63,7 @@
     "ncm": 7041000,
     "ean": "0000000000121",
     "custo": "2,5",
-    "preco_desconto": "1,99",
+    "preco_desconto": "3,99",
     "estoque": 233
   },
 
@@ -80,7 +80,7 @@
     "ncm": 7061000,
     "ean": "0000000000126",
     "custo": "0,7",
-    "preco_desconto": "0,19",
+    "preco_desconto": "1,39",
     "estoque": "329,336"
   },
 
@@ -89,7 +89,7 @@
     "desconto": 0,
     "descricao_tecnica": "0 / BANDEJAS",
     "tipo_embalagem": "KG",
-    "pro_nome": "AAAFRAO BDJ UND",
+    "pro_nome": "ACAFRAO BDJ UND",
     "preco": "6,99",
     "departamento": "HORTI FRUTI",
     "secao": "FLV",
@@ -97,7 +97,7 @@
     "ncm": 9102000,
     "ean": "0000000000333",
     "custo": "3,4",
-    "preco_desconto": "2,89",
+    "preco_desconto": "6,19",
     "estoque": 44
   },
 
@@ -106,7 +106,7 @@
     "desconto": 0,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "UN",
-    "pro_nome": "BANANA MAAA KG",
+    "pro_nome": "BANANA MACA KG",
     "preco": "8,99",
     "departamento": "HORTI FRUTI",
     "secao": "FLV",
@@ -114,7 +114,7 @@
     "ncm": "08039000",
     "ean": "0000000000347",
     "custo": "4,69",
-    "preco_desconto": "4,18",
+    "preco_desconto": "7,89",
     "estoque": "105,384"
   },
 
@@ -131,7 +131,7 @@
     "ncm": 8109090,
     "ean": "0000000000171",
     "custo": 5,
-    "preco_desconto": "4,49",
+    "preco_desconto": "8,49",
     "estoque": "-0,164"
   },
 
@@ -140,7 +140,7 @@
     "desconto": 0,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "UN",
-    "pro_nome": "MAAA FUJI KG",
+    "pro_nome": "MACA FUJI KG",
     "preco": "7,99",
     "departamento": "HORTI FRUTI",
     "secao": "FLV",
@@ -148,7 +148,7 @@
     "ncm": 8081000,
     "ean": "0000000000177",
     "custo": "3,78",
-    "preco_desconto": "3,27",
+    "preco_desconto": "6,87",
     "estoque": "104,557"
   },
 
@@ -165,7 +165,7 @@
     "ncm": 8061000,
     "ean": "0000000000198",
     "custo": 3,
-    "preco_desconto": "2,49",
+    "preco_desconto": "5,19",
     "estoque": 21
   },
 
@@ -182,7 +182,7 @@
     "ncm": 6031900,
     "ean": "0000000000317",
     "custo": "2,5",
-    "preco_desconto": "1,99",
+    "preco_desconto": "3,29",
     "estoque": -2
   },
 
@@ -199,7 +199,7 @@
     "ncm": 8031000,
     "ean": "0000000000355",
     "custo": 4,
-    "preco_desconto": "3,49",
+    "preco_desconto": "7,19",
     "estoque": "68,397"
   },
 
@@ -216,7 +216,7 @@
     "ncm": 7129090,
     "ean": "0000000000525",
     "custo": 20,
-    "preco_desconto": "19,49",
+    "preco_desconto": "34,49",
     "estoque": "-5,0253"
   },
 
@@ -233,7 +233,7 @@
     "ncm": 9109900,
     "ean": "0000000000535",
     "custo": 9,
-    "preco_desconto": "8,49",
+    "preco_desconto": "23,49",
     "estoque": "-5,8858"
   },
 
@@ -250,7 +250,7 @@
     "ncm": 7129090,
     "ean": "0000000000543",
     "custo": "17,67",
-    "preco_desconto": "17,16",
+    "preco_desconto": "40,00",
     "estoque": "-1,8132"
   },
 
@@ -267,7 +267,7 @@
     "ncm": 7032090,
     "ean": "0000000000225",
     "custo": 15,
-    "preco_desconto": "14,49",
+    "preco_desconto": "20,49",
     "estoque": 4
   },
 
@@ -284,7 +284,7 @@
     "ncm": 20079990,
     "ean": "0000000000381",
     "custo": 25,
-    "preco_desconto": "24,49",
+    "preco_desconto": "44,49",
     "estoque": "65,429"
   },
 
@@ -301,7 +301,7 @@
     "ncm": 7099990,
     "ean": "0000000000524",
     "custo": 28,
-    "preco_desconto": "27,49",
+    "preco_desconto": "53,49",
     "estoque": "-2,3976"
   },
 
@@ -318,7 +318,7 @@
     "ncm": "07032090",
     "ean": 7898278400218,
     "custo": "5,13",
-    "preco_desconto": "4,62",
+    "preco_desconto": "8,99",
     "estoque": 5
   },
 
@@ -335,7 +335,534 @@
     "ncm": 21039021,
     "ean": 7898278401994,
     "custo": "6,74",
-    "preco_desconto": "6,23",
+    "preco_desconto": "8,99",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "10072589",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "KG",
+    "pro_nome": "CARNE CONTRA FILE KG",
+    "preco": "49,99",
+    "departamento": "ACOUGUE",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": "07038090",
+    "ean": 7898278400218,
+    "custo": "35,13",
+    "preco_desconto": "0",
+    "estoque": 5
+  },
+
+  {
+    "pro_codigo": "20072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "KG",
+    "pro_nome": "CARNE ALCATRA KG",
+    "preco": "30,99",
+    "departamento": "ACOGUE",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 23039021,
+    "ean": 7898258401994,
+    "custo": "20,74",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "30072589",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "KG",
+    "pro_nome": "LINGUICA SUINA KG",
+    "preco": "22,99",
+    "departamento": "ACOUGUE",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": "17038090",
+    "ean": 7898278400248,
+    "custo": "17,13",
+    "preco_desconto": "0",
+    "estoque": 5
+  },
+
+  {
+    "pro_codigo": "40072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "KG",
+    "pro_nome": "LINGUICA CALABRESA KG",
+    "preco": "25,99",
+    "departamento": "ACOGUE",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 23048521,
+    "ean": 7564258401994,
+    "custo": "20,74",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "50072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "KG",
+    "pro_nome": "BACALHAU PORTO KG",
+    "preco": "115,99",
+    "departamento": "ACOGUE",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 23258521,
+    "ean": 7568268401994,
+    "custo": "92,99",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "60072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "SORVETE CHOC NESTLE 1,5L",
+    "preco": "22,99",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 23086321,
+    "ean": 7574859401994,
+    "custo": "18,74",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "70072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "SORVETE FLOCOS NESTLE 1,5L",
+    "preco": "21,99",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 24568521,
+    "ean": 7568568423994,
+    "custo": "18,74",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "80072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "SORVETE NESTLE TRADICIONAL 1,5L",
+    "preco": "19,99",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 23076851,
+    "ean": 7574455601994,
+    "custo": "16,50",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "90072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "SORVETE KIBON CREMOSO 1,5L",
+    "preco": "27,99",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 24567561,
+    "ean": 7965564423994,
+    "custo": "23,00",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "91072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "REFR COCA COLA 2L",
+    "preco": "7,99",
+    "departamento": "BEBIDAS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 28567661,
+    "ean": 7985668423994,
+    "custo": "6,49",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "92072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "REFR COCA COLA 1L",
+    "preco": "4,99",
+    "departamento": "BEBIDAS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 28569561,
+    "ean": 7965864953994,
+    "custo": "4,19",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "93072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "COCA COLA LATA 350ML",
+    "preco": "3,29",
+    "departamento": "BEBIDAS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 29581561,
+    "ean": 7965965853994,
+    "custo": "2,59",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "94072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "REFR PEPSI COLA 200ML",
+    "preco": "1,19",
+    "departamento": "BEBIDAS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 29569585,
+    "ean": 7145364953994,
+    "custo": "0,99",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "95072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "REFR PEPSI COLA 1,5L",
+    "preco": "5,99",
+    "departamento": "BEBIDAS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 38569561,
+    "ean": 7965865863994,
+    "custo": "4,99",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "96072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BISNAGUINHA PANCO 300G",
+    "preco": "6,99",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 37569561,
+    "ean": 7965765865894,
+    "custo": "5,99",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "97072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "PAO DE FORMA PANCO 500G",
+    "preco": "6,99",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 37568461,
+    "ean": 7978665865894,
+    "custo": "5,99",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "98072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "PAO DE FORMA VISCONTI 500G",
+    "preco": "5,49",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 37578561,
+    "ean": 7965765876894,
+    "custo": "4,69",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99072596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BOLO ANA MARIA CHOC 35G",
+    "preco": "2,29",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 37668461,
+    "ean": 7965743265894,
+    "custo": "1,89",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99172596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BOLO PANCO ABACAXI 300G",
+    "preco": "9,59",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 32632461,
+    "ean": 7965782165894,
+    "custo": "8,79",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99272596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "PANETONE BAUDUCO 80G",
+    "preco": "7,59",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 32682661,
+    "ean": 7965122165294,
+    "custo": "6,69",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99372596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "PANETONE VISCONTI 400G",
+    "preco": "17,59",
+    "departamento": "PADARIA",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 32622511,
+    "ean": 7915581165894,
+    "custo": "15,19",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99472596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BISCOITO NEGRESCO 140G",
+    "preco": "2,99",
+    "departamento": "BISCOITOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 41632461,
+    "ean": 7961285665894,
+    "custo": "2,49",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99572596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BISCOITO PASSATEMPO 130G",
+    "preco": "2,39",
+    "departamento": "BISCOITOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 42651461,
+    "ean": 7961281656894,
+    "custo": "2,09",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99672596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BISCOITO COOKIES 140G",
+    "preco": "4,99",
+    "departamento": "BISCOITOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 41637461,
+    "ean": 7911588665894,
+    "custo": "4,09",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99772596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "CLUB SOCIAL ORIGINAL",
+    "preco": "8,99",
+    "departamento": "BISCOITOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 49622461,
+    "ean": 7991515665894,
+    "custo": "7,19",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99872596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BISCOITO DOCE PANCO 500G",
+    "preco": "7,99",
+    "departamento": "BISCOITOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 41632211,
+    "ean": 7961285213894,
+    "custo": "6,19",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "99972596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "BISCOITO WAFER 140G",
+    "preco": "2,99",
+    "departamento": "BISCOITOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 41632561,
+    "ean": 7961285248894,
+    "custo": "2,19",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "91912596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "LEITE ITALAC INTEGRAL 1L",
+    "preco": "4,29",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 48662561,
+    "ean": 7968252248894,
+    "custo": "3,69",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "91922596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "CHAMYTO 6UN",
+    "preco": "6,99",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 48665561,
+    "ean": 7968264548894,
+    "custo": "5,89",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "91932596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "IOGURTE DANONE 170G",
+    "preco": "2,69",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 48668561,
+    "ean": 7968252286894,
+    "custo": "2,09",
+    "preco_desconto": "0",
+    "estoque": 2
+  },
+
+  {
+    "pro_codigo": "91942596",
+    "desconto": 0,
+    "descricao_tecnica": "0 / INDUSTRIALIZADO",
+    "tipo_embalagem": "UN",
+    "pro_nome": "IOGURTE NATURAL 160G",
+    "preco": "2,89",
+    "departamento": "FRIOS",
+    "secao": "FLV",
+    "categoria": "INDUSTRIALIZADO",
+    "ncm": 48463561,
+    "ean": 7968252247794,
+    "custo": "2,19",
+    "preco_desconto": "0",
     "estoque": 2
   },
 

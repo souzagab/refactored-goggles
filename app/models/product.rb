@@ -14,7 +14,7 @@
 #  estoque           :float
 #  ncm               :string
 #  preco             :float
-#  preco_desconto    :string           default("0")
+#  preco_desconto    :float            default(0.0)
 #  pro_codigo        :string
 #  pro_nome          :string
 #  secao             :string
