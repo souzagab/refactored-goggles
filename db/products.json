@@ -1,7 +1,7 @@
 [
   {
     "pro_codigo": "00000590",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "GRANOLA KG",
@@ -18,7 +18,7 @@
 
   {
     "pro_codigo": "00000592",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "UVA PASSA BRANCA KG",
@@ -35,7 +35,7 @@
 
   {
     "pro_codigo": "00000632",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "CASTANHA  KG",
@@ -52,7 +52,7 @@
 
   {
     "pro_codigo": "00000121",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / HORTALICAS",
     "tipo_embalagem": "KG",
     "pro_nome": "BROCOLIS UND",
@@ -69,7 +69,7 @@
 
   {
     "pro_codigo": "00000126",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / LEGUMES",
     "tipo_embalagem": "UN",
     "pro_nome": "CENOURA 1A KG",
@@ -86,7 +86,7 @@
 
   {
     "pro_codigo": "00000333",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / BANDEJAS",
     "tipo_embalagem": "KG",
     "pro_nome": "ACAFRAO BDJ UND",
@@ -103,7 +103,7 @@
 
   {
     "pro_codigo": "00000347",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "UN",
     "pro_nome": "BANANA MACA KG",
@@ -120,7 +120,7 @@
 
   {
     "pro_codigo": "00000171",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "UN",
     "pro_nome": "CAQUI CHOCOLATE KG",
@@ -137,7 +137,7 @@
 
   {
     "pro_codigo": "00000177",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "UN",
     "pro_nome": "MACA FUJI KG",
@@ -154,7 +154,7 @@
 
   {
     "pro_codigo": "00000198",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "KG",
     "pro_nome": "UVA NIAGARA BDJ UND",
@@ -171,7 +171,7 @@
 
   {
     "pro_codigo": "00000317",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / BANDEJAS",
     "tipo_embalagem": "KG",
     "pro_nome": "PIM. MARIA BONITA BDJ",
@@ -188,7 +188,7 @@
 
   {
     "pro_codigo": "00000355",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / FRUTAS",
     "tipo_embalagem": "UN",
     "pro_nome": "BANANA DA TERRA KG",
@@ -205,7 +205,7 @@
 
   {
     "pro_codigo": "00000525",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "SALSA DESIDRATADA KG",
@@ -222,7 +222,7 @@
 
   {
     "pro_codigo": "00000535",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "ACAFRAO KG",
@@ -239,7 +239,7 @@
 
   {
     "pro_codigo": "00000543",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "ALECRIM TEM KG",
@@ -256,7 +256,7 @@
 
   {
     "pro_codigo": "00000225",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "ALHO DESCASCADO UM PCT UND",
@@ -273,7 +273,7 @@
 
   {
     "pro_codigo": "00000381",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "DOCE DIVERSOS KG",
@@ -290,7 +290,7 @@
 
   {
     "pro_codigo": "00000524",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / EMPORIO",
     "tipo_embalagem": "UN",
     "pro_nome": "COENTRO EM FOLHA DESIDRATADO KG",
@@ -307,7 +307,7 @@
 
   {
     "pro_codigo": "00072589",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "ALHO TRITURADO SOETO UND",
@@ -324,7 +324,7 @@
 
   {
     "pro_codigo": "00072596",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "MOLHO PIMEN CUMARI SOETO UND",
@@ -341,7 +341,7 @@
 
   {
     "pro_codigo": "10072589",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "CARNE CONTRA FILE KG",
@@ -358,7 +358,7 @@
 
   {
     "pro_codigo": "20072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "CARNE ALCATRA KG",
@@ -375,7 +375,7 @@
 
   {
     "pro_codigo": "30072589",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "LINGUICA SUINA KG",
@@ -392,7 +392,7 @@
 
   {
     "pro_codigo": "40072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "LINGUICA CALABRESA KG",
@@ -409,7 +409,7 @@
 
   {
     "pro_codigo": "50072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "BACALHAU PORTO KG",
@@ -426,7 +426,7 @@
 
   {
     "pro_codigo": "60072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "SORVETE CHOC NESTLE 1,5L",
@@ -443,7 +443,7 @@
 
   {
     "pro_codigo": "70072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "SORVETE FLOCOS NESTLE 1,5L",
@@ -460,7 +460,7 @@
 
   {
     "pro_codigo": "80072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "SORVETE NESTLE TRADICIONAL 1,5L",
@@ -477,7 +477,7 @@
 
   {
     "pro_codigo": "90072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "SORVETE KIBON CREMOSO 1,5L",
@@ -494,7 +494,7 @@
 
   {
     "pro_codigo": "91072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "REFR COCA COLA 2L",
@@ -511,7 +511,7 @@
 
   {
     "pro_codigo": "92072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "REFR COCA COLA 1L",
@@ -528,7 +528,7 @@
 
   {
     "pro_codigo": "93072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "COCA COLA LATA 350ML",
@@ -545,7 +545,7 @@
 
   {
     "pro_codigo": "94072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "REFR PEPSI COLA 200ML",
@@ -562,7 +562,7 @@
 
   {
     "pro_codigo": "95072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "REFR PEPSI COLA 1,5L",
@@ -579,7 +579,7 @@
 
   {
     "pro_codigo": "96072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BISNAGUINHA PANCO 300G",
@@ -596,7 +596,7 @@
 
   {
     "pro_codigo": "97072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "PAO DE FORMA PANCO 500G",
@@ -613,7 +613,7 @@
 
   {
     "pro_codigo": "98072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "PAO DE FORMA VISCONTI 500G",
@@ -630,7 +630,7 @@
 
   {
     "pro_codigo": "99072596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BOLO ANA MARIA CHOC 35G",
@@ -647,7 +647,7 @@
 
   {
     "pro_codigo": "99172596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BOLO PANCO ABACAXI 300G",
@@ -664,7 +664,7 @@
 
   {
     "pro_codigo": "99272596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "PANETONE BAUDUCO 80G",
@@ -681,7 +681,7 @@
 
   {
     "pro_codigo": "99372596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "PANETONE VISCONTI 400G",
@@ -698,7 +698,7 @@
 
   {
     "pro_codigo": "99472596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BISCOITO NEGRESCO 140G",
@@ -715,7 +715,7 @@
 
   {
     "pro_codigo": "99572596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BISCOITO PASSATEMPO 130G",
@@ -732,7 +732,7 @@
 
   {
     "pro_codigo": "99672596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BISCOITO COOKIES 140G",
@@ -749,7 +749,7 @@
 
   {
     "pro_codigo": "99772596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "CLUB SOCIAL ORIGINAL",
@@ -766,7 +766,7 @@
 
   {
     "pro_codigo": "99872596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BISCOITO DOCE PANCO 500G",
@@ -783,7 +783,7 @@
 
   {
     "pro_codigo": "99972596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "BISCOITO WAFER 140G",
@@ -800,7 +800,7 @@
 
   {
     "pro_codigo": "91912596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "LEITE ITALAC INTEGRAL 1L",
@@ -817,7 +817,7 @@
 
   {
     "pro_codigo": "91922596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "CHAMYTO 6UN",
@@ -834,7 +834,7 @@
 
   {
     "pro_codigo": "91932596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "IOGURTE DANONE 170G",
@@ -851,7 +851,7 @@
 
   {
     "pro_codigo": "91942596",
-    "desconto": 0,
+    "desconto": false,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "UN",
     "pro_nome": "IOGURTE NATURAL 160G",
@@ -868,7 +868,7 @@
 
   {
     "pro_codigo": "00072598",
-    "desconto": 0,
+    "desconto": true,
     "descricao_tecnica": "0 / INDUSTRIALIZADO",
     "tipo_embalagem": "KG",
     "pro_nome": "MAIONESE BARBECUE SOETO UND",

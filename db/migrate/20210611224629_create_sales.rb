@@ -4,10 +4,12 @@ class CreateSales < ActiveRecord::Migration[6.1]
   def change
     create_table :sales do |t|
       t.string :cliente
-      t.datetime :data
+      t.string :cpf
       t.string :telefone
       t.string :telefone2
-      t.float :pagamento
+      t.change :data, :string
+      t.change :pagamento, :string
+      t.change :data_entrega, :string
       t.float :valor_total_pedido
       t.string :email
       t.text :observacao
@@ -16,7 +18,6 @@ class CreateSales < ActiveRecord::Migration[6.1]
       t.string :bairro
       t.string :numero
       t.string :complemento
-      t.date :data_entrega
       t.string :horario_entrega
       t.string :status
 
